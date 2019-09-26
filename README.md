@@ -16,3 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 source: https://dev.to/shakib609/create-a-todos-app-with-flutter-and-provider-jdh
+
+how to run
+1. flutter packages get
+2. flutter run
